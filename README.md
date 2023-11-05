@@ -65,6 +65,10 @@ Install vLLM with pip or [from source](https://vllm.readthedocs.io/en/latest/get
 
 ```bash
 pip install vllm
+# from source
+git clone https://github.com/vllm-project/vllm.git
+cd vllm
+pip install -e .  # This may take 5-10 minutes.
 ```
 
 ## Getting Started
